@@ -12,5 +12,15 @@ I haven't messed around with a lot of machine learning algorithms for a while so
 
 The 9th column represents the rings of the abalone which is equal to the age of the abalone minus 1.5. So 10 rings means it is 11.5 years old.
 
+The following are the algorithms I will be testing:
+1. Linear
+2. Ridge
+3. Lasso
+4. SVM
+5. Decision Tree
+6. Random Forest
+7. Gaussian
+8. Neural Network
+
 ## Exploratory Data Analysis
 The first step is to explore our data, this can be followed along in the abalone_regression notebook.
